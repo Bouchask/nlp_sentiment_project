@@ -84,6 +84,7 @@ Dotenv: Manages environment variables.
 Matplotlib: Renders word clouds.
 
 Project Structure
+```bash
 nlp_sentiment_project/
 ├── data/                   # Output CSVs (processed_comments_*.csv)
 ├── models/                 # Fine-tuned DistilRoBERTa model (optional)
@@ -96,6 +97,7 @@ nlp_sentiment_project/
 ├── .gitignore              # Ignored files
 ├── requirements.txt        # Python dependencies
 ├── README.md               # Project documentation
+```
 
 Notes
 
